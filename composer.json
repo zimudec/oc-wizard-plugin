@@ -1,0 +1,26 @@
+{
+  "name": "zimudec/oc-wizard-plugin",
+  "type": "october-plugin",
+  "description": "Wizard plugin for OctoberCMS",
+  "homepage": "https://github.com/zimudec/oc-wizard-plugin",
+  "keywords": ["october", "octobercms", "wizard", "steps", "forms", "validations"],
+  "license": "MIT",
+  "authors": [
+      {
+          "name": "Héctor Pavez",
+          "email": "hectzimudec@gmail.com",
+          "role": "Original Author"
+      }
+  ],
+  "support": {
+      "issues": "https://github.com/zimudec/oc-wizard-plugin/issues",
+      "source": "https://github.com/zimudec/oc-wizard-plugin"
+  },
+  "require": {
+      "php": ">=7.0",
+      "composer/installers": "~1.0"
+  },
+  "extra": {
+      "installer-name": "wizard"
+  }
+}
