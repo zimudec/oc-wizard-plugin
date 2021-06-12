@@ -1,5 +1,5 @@
 {
-  "name": "zimudec/oc-wizard-plugin",
+  "name": "zimudec/wizard-plugin",
   "type": "october-plugin",
   "description": "Wizard plugin for OctoberCMS",
   "homepage": "https://github.com/zimudec/oc-wizard-plugin",
